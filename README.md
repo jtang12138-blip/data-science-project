@@ -1,4 +1,4 @@
-<img width="1255" height="734" alt="visualization1_WineQuality_HighQualityZone" src="https://github.com/user-attachments/assets/4a89ecae-ee44-4113-8e7a-e6a69eedc148" /># Wine Quality Analysis
+# Wine Quality Analysis
 
 ## Research Question
 Which factors are associated with higher wine quality, and what differences exist between red and white wines?
