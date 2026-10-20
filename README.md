@@ -1,4 +1,4 @@
-# Wine Quality Analysis
+<img width="1255" height="734" alt="visualization1_WineQuality_HighQualityZone" src="https://github.com/user-attachments/assets/4a89ecae-ee44-4113-8e7a-e6a69eedc148" /># Wine Quality Analysis
 
 ## Research Question
 Which factors are associated with higher wine quality, and what differences exist between red and white wines?
@@ -18,7 +18,7 @@ Which factors are associated with higher wine quality, and what differences exis
 ## Visualizations
 
 ### Visualization 1: Alcohol vs Volatile Acidity and Wine Quality
-![Uploading visualization1_WineQuality_HighQualityZone.png…]()
+<img width="1255" height="734" alt="visualization1_WineQuality_HighQualityZone" src="https://github.com/user-attachments/assets/4d292815-38fc-4c18-a76d-fdaaa637b8cf" />
 This visualization shows that higher-quality wines tend to have higher alcohol content and lower volatile acidity.
 
 ### Visualization 2: Feature Correlation Heatmap
