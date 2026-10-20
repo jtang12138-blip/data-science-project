@@ -18,9 +18,11 @@ Which factors are associated with higher wine quality, and what differences exis
 ## Visualizations
 
 ### Visualization 1: Alcohol vs Volatile Acidity and Wine Quality
+![Uploading visualization1_WineQuality_HighQualityZone.png…]()
 This visualization shows that higher-quality wines tend to have higher alcohol content and lower volatile acidity.
 
 ### Visualization 2: Feature Correlation Heatmap
+<img width="3270" height="2963" alt="visualization2_Wine Quality Dataset Correlation Matrix" src="https://github.com/user-attachments/assets/2d2097cd-c606-42da-b2ee-af43085d2c96" />
 This visualization highlights relationships among the variables and their correlations with wine quality.
 
 ## Key Findings
